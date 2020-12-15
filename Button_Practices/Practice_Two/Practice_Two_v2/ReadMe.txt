@@ -1,0 +1,6 @@
+v1：
+	Test Bouncing...
+v2：
+	Fix Problem...
+	For One Click be recognized as one --> push
+	Ext-->Detect Each Fast Click Number. --> OK
