@@ -8,3 +8,4 @@ Notice:
   - Everyone Is Free To Use The Code.
   - However, all code are not guaranteed well-performing, maybe there maybe some issue inside
   - Code here may not be updated or fixed, even i was informed by other user about the bugs.
+  - These Files may contain personal reviews and personal opinion(If you offend, please forgive me)
